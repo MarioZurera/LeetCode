@@ -6,6 +6,6 @@ For the C solutions I recommend you visit my project [Algorithms-C](https://gith
 
 ID | Title | Solution 
 ---|-------|---------
-1|[Two Sum](https://leetcode.com/problems/two-sum)|<ul> <li>C</li> <li>Java</li> <li>TypeScript</li> <li>Python</li> </ul>
-217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|<ul> <li>C</li> <li>Java</li> <li>TypeScript</li> <li>Python</li> </ul>
-242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|<ul> <li>C</li> <li>Java</li> <li>TypeScript</li> <li>Python</li> </ul>
+1|[Two Sum](https://leetcode.com/problems/two-sum)|<ul> <li>C</li> <li>Java</li> <li>TypeScript</li> <li>[Python](https://github.com/MarioZurera/LeetCode/blob/main/Python/Two-Sum.py)</li> </ul>
+217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|<ul> <li>C</li> <li>Java</li> <li>TypeScript</li> <li>[Python](https://github.com/MarioZurera/LeetCode/blob/main/Python/Contains-Duplicate.py)</li> </ul>
+242|[Valid Anagram](https://leetcode.com/problems/valid-anagram)|<ul> <li>C</li> <li>Java</li> <li>TypeScript</li> <li>[Python](https://github.com/MarioZurera/LeetCode/blob/main/Python/Valid-Anagram.py)</li> </ul>
