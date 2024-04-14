@@ -1,7 +1,6 @@
 # LeetCode
 
 Problems from LeetCode solved in C, Java, TypeScript and Python.  
-For the C solutions I recommend you visit my project [Algorithms-C](https://github.com/MarioZurera/Algorithms-C), where is implemented and used the necessary data structure.
 
 
 ID | Title | Solution 
